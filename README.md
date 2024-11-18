@@ -21,7 +21,7 @@ Follow these steps to set up and run the server locally.
 1. Clone the repository to your local machine:  
 
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/Siphe23/Node.js-sever-hello-world.git
    cd your-repository-name
 Author
 Nasiphi Siphesihle Ndzumo
